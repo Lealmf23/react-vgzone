@@ -24,7 +24,7 @@ function TeaserLastedReleases({ gm_id, imageURL2 }) {
             to={`/juegos/${gm_id}`}>
             <div className='releases-card'>
                 <img
-                    className='featured-image'
+                    className='releases-images'
                     src={`/images/lastedRelease/${imageURL2}`}
                     alt=''
                 />

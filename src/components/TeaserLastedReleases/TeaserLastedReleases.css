@@ -13,6 +13,12 @@
 
 }
 
+.releases-images{
+        width: 100%;
+            margin-bottom: 10px;
+            border-radius: 5px;
+}
+
 .releases-card:hover {
     background-color: #4d4a4a60;
 }

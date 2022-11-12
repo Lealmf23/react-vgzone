@@ -28,7 +28,7 @@ function TeaserFeaturedGames({ gm_id }) {
             to={`/juegos/${gm_id}`}>
             <div className='featured-card'>
                 <img
-                    className='featured-image'
+                    className='featured-images'
                     src={`/images/games/${imageURL}`}
                     alt=''
                 />
