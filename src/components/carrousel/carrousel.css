@@ -1,0 +1,16 @@
+.carousel-caption {
+    right: 0 !important;
+    width: 100%;
+    left: 0 !important;
+}
+
+.carrousel-content {max-width: 800px;
+margin: auto;}
+
+@media (min-width: 768px) {
+    .image-carrousel {
+        width: 100%;
+    }
+}
+
+;

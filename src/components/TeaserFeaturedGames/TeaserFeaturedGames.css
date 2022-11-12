@@ -1,0 +1,31 @@
+.featured-image {
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.featured-card-box {
+    text-decoration: none;
+   
+}
+
+.featured-card {
+    color: #fff;
+    transition: all 600ms;
+margin-bottom: 20px;
+
+}
+
+.featured-card:hover {
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #00000060;
+    backdrop-filter: blur(0.4rem);
+    -webkit-backdrop-filter: blur(0.4rem);
+    color: #fff;
+    transition: all 600ms;
+}
+
+.featured-card p {
+    margin-bottom: 0px;
+}

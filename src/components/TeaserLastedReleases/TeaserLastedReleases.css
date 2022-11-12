@@ -1,0 +1,25 @@
+.releases-card-box{
+    text-decoration: none;
+}
+
+.releases-card{
+        padding: 10px;
+            border-radius: 5px;
+            background-color: #00000060;
+            backdrop-filter: blur(0.4rem);
+            -webkit-backdrop-filter: blur(0.4rem);
+            color: #fff;
+            transition: all 600ms;
+
+}
+
+.releases-card:hover {
+    background-color: #4d4a4a60;
+}
+
+.line-clamp {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+                overflow: hidden;
+}

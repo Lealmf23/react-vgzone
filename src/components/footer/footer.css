@@ -1,0 +1,26 @@
+.footer-logo {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.footer-social {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.footer-component {
+    margin-top: auto;
+}
+
+@media (min-width:768px) {
+    .footer-logo {
+        text-align: left;
+    }
+
+    .footer-social {
+
+    text-align: right;
+        
+       
+    }
+}
