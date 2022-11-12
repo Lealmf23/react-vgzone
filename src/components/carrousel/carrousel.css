@@ -4,13 +4,19 @@
     left: 0 !important;
 }
 
-.carrousel-content {max-width: 800px;
-margin: auto;}
+.carrousel-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.carrousel-content {
+    max-width: 800px;
+    margin: auto;
+}
 
 @media (min-width: 768px) {
     .image-carrousel {
         width: 100%;
     }
 }
-
-;
