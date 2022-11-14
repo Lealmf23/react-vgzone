@@ -11,6 +11,9 @@ El Frontend esta alojado en netlify bajo la url https://videogames-zone.netlify.
 GitHub backend
 https://github.com/Lealmf23/nodejs-mysql-vgzone
 
+Para la creacción de la base de datos esta un documento database.sql
+https://github.com/Lealmf23/nodejs-mysql-vgzone/blob/master/db/database.sql
+
 
 
 
