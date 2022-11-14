@@ -8,6 +8,9 @@ El sitio esta creado en Reactjs + React bootstrap, y consta de una homepage, una
 
 El Frontend esta alojado en netlify bajo la url https://videogames-zone.netlify.app/, el backend NodeJS esta alojando en railway y la base de datos MySql esta en el servidor de alwaysdata.com.
 
+GitHub backend
+https://github.com/Lealmf23/nodejs-mysql-vgzone
+
 
 
 
