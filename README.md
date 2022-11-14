@@ -1,4 +1,4 @@
-# UTN Proyecto Final PWA: ReactJs - NodeJS - MySql
+# UTN Proyecto Final PWA FRONTEND: ReactJs - React-bootstrap
 
 Nombre: Léon Marín Fornerino
 
